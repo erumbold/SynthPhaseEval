@@ -21,7 +21,7 @@ I calculated the SDR of the resulting 15 stems using the implementation of scale
 
 Code of these experiments can be found in the Google CoLab notebook here: https://colab.research.google.com/drive/18eQLeYDTLCn7xM6yV6keF5SnjPe7npMs?usp=sharing.
 
-Within the notebook, I explain the steps I took to create the audio data, and a copy of the notebook is also available in this repository.
+Within the notebook, I explain the steps I took to create the audio data. A copy of the notebook is also available in this repository, but it may not be up-to-date with the notebook hosted in CoLab.
 
 ## References
 1. Défossez, A., Usunier, N., Bottou, L., and Bach, F. [Music source separation in the waveform domain](https://arxiv.org/pdf/1911.13254.pdf). arXiv preprint arXiv:1911.13254 (2019).
